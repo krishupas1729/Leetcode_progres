@@ -29,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishupas1729/Leetcode_progres/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/krishupas1729/Leetcode_progres/tree/master/0020-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krishupas1729/Leetcode_progres/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
