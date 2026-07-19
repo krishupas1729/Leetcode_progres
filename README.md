@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishupas1729/Leetcode_progres/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/krishupas1729/Leetcode_progres/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/2460-apply-operations-to-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/krishupas1729/Leetcode_progres/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/krishupas1729/Leetcode_progres/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/krishupas1729/Leetcode_progres/tree/master/2469-convert-the-temperature) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/krishupas1729/Leetcode_progres/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
