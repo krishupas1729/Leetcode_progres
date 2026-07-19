@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/krishupas1729/Leetcode_progres/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishupas1729/Leetcode_progres/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/krishupas1729/Leetcode_progres/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/krishupas1729/Leetcode_progres/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishupas1729/Leetcode_progres/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/krishupas1729/Leetcode_progres/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/krishupas1729/Leetcode_progres/tree/master/2119-a-number-after-a-double-reversal) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/krishupas1729/Leetcode_progres/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishupas1729/Leetcode_progres/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/krishupas1729/Leetcode_progres/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
