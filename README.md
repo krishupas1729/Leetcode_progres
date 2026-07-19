@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krishupas1729/Leetcode_progres/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krishupas1729/Leetcode_progres/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/krishupas1729/Leetcode_progres/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
