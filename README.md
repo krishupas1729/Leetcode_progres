@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/krishupas1729/Leetcode_progres/tree/master/2119-a-number-after-a-double-reversal) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishupas1729/Leetcode_progres/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
