@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/krishupas1729/Leetcode_progres/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0509-fibonacci-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/krishupas1729/Leetcode_progres/tree/master/2119-a-number-after-a-double-reversal) |
 ## Two Pointers
 |  |
 | ------- |
