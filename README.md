@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/krishupas1729/Leetcode_progres/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishupas1729/Leetcode_progres/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/krishupas1729/Leetcode_progres/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/krishupas1729/Leetcode_progres/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishupas1729/Leetcode_progres/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishupas1729/Leetcode_progres/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/krishupas1729/Leetcode_progres/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/krishupas1729/Leetcode_progres/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krishupas1729/Leetcode_progres/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -87,8 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishupas1729/Leetcode_progres/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/krishupas1729/Leetcode_progres/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
