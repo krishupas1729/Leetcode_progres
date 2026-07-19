@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishupas1729/Leetcode_progres/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/krishupas1729/Leetcode_progres/tree/master/0020-valid-parentheses) |
+| [1446-consecutive-characters](https://github.com/krishupas1729/Leetcode_progres/tree/master/1446-consecutive-characters) |
 ## Linked List
 |  |
 | ------- |
