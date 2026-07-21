@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/krishupas1729/Leetcode_progres/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/krishupas1729/Leetcode_progres/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krishupas1729/Leetcode_progres/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/krishupas1729/Leetcode_progres/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/krishupas1729/Leetcode_progres/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krishupas1729/Leetcode_progres/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krishupas1729/Leetcode_progres/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
