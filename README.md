@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishupas1729/Leetcode_progres/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krishupas1729/Leetcode_progres/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/krishupas1729/Leetcode_progres/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/krishupas1729/Leetcode_progres/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishupas1729/Leetcode_progres/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krishupas1729/Leetcode_progres/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/krishupas1729/Leetcode_progres/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishupas1729/Leetcode_progres/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/krishupas1729/Leetcode_progres/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
