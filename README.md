@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/krishupas1729/Leetcode_progres/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/krishupas1729/Leetcode_progres/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/krishupas1729/Leetcode_progres/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/krishupas1729/Leetcode_progres/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishupas1729/Leetcode_progres/tree/master/0907-sum-of-subarray-minimums) |
 | [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishupas1729/Leetcode_progres/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/krishupas1729/Leetcode_progres/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/krishupas1729/Leetcode_progres/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/krishupas1729/Leetcode_progres/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishupas1729/Leetcode_progres/tree/master/0907-sum-of-subarray-minimums) |
 ## Binary Search
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/krishupas1729/Leetcode_progres/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishupas1729/Leetcode_progres/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
