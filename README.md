@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/krishupas1729/Leetcode_progres/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/krishupas1729/Leetcode_progres/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishupas1729/Leetcode_progres/tree/master/0907-sum-of-subarray-minimums) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/krishupas1729/Leetcode_progres/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/krishupas1729/Leetcode_progres/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishupas1729/Leetcode_progres/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/krishupas1729/Leetcode_progres/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
