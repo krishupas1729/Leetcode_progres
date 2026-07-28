@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/krishupas1729/Leetcode_progres/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/krishupas1729/Leetcode_progres/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/krishupas1729/Leetcode_progres/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/krishupas1729/Leetcode_progres/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishupas1729/Leetcode_progres/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/krishupas1729/Leetcode_progres/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishupas1729/Leetcode_progres/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/krishupas1729/Leetcode_progres/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/krishupas1729/Leetcode_progres/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/krishupas1729/Leetcode_progres/tree/master/0225-implement-stack-using-queues) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krishupas1729/Leetcode_progres/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/krishupas1729/Leetcode_progres/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishupas1729/Leetcode_progres/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/krishupas1729/Leetcode_progres/tree/master/0739-daily-temperatures) |
