@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/krishupas1729/Leetcode_progres/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishupas1729/Leetcode_progres/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/krishupas1729/Leetcode_progres/tree/master/0128-longest-consecutive-sequence) |
+| [0239-sliding-window-maximum](https://github.com/krishupas1729/Leetcode_progres/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/krishupas1729/Leetcode_progres/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishupas1729/Leetcode_progres/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krishupas1729/Leetcode_progres/tree/master/0485-max-consecutive-ones) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishupas1729/Leetcode_progres/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/krishupas1729/Leetcode_progres/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -206,8 +208,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/krishupas1729/Leetcode_progres/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krishupas1729/Leetcode_progres/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/krishupas1729/Leetcode_progres/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/krishupas1729/Leetcode_progres/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/krishupas1729/Leetcode_progres/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/krishupas1729/Leetcode_progres/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
