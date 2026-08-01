@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishupas1729/Leetcode_progres/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/krishupas1729/Leetcode_progres/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/krishupas1729/Leetcode_progres/tree/master/0071-simplify-path) |
 | [1446-consecutive-characters](https://github.com/krishupas1729/Leetcode_progres/tree/master/1446-consecutive-characters) |
 ## Linked List
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishupas1729/Leetcode_progres/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/krishupas1729/Leetcode_progres/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishupas1729/Leetcode_progres/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/krishupas1729/Leetcode_progres/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/krishupas1729/Leetcode_progres/tree/master/0155-min-stack) |
